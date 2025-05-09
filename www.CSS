@@ -1,0 +1,19 @@
+body{
+ 
+    background-color: rgb(58, 52, 52);
+   color: rgb(244, 244, 244);
+}
+ul{ 
+    list-style-type: none;
+   display: flex;
+justify-content: space-between;
+}
+
+a:hover{
+    
+    text-decoration: underline;
+    color: azure;
+}
+.center{
+    text-align: center;
+}  
